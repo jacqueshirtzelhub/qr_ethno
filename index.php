@@ -1,5 +1,7 @@
-<?php 
-	require("fpdf.php");
+<?php
+
+echo "toto";
+/*	require("fpdf.php");
 	include('./phpqrcode/qrlib.php'); 
 	
 	$pdo = new PDO('mysql:host=localhost;dbname=ecole', 'root', ''); 
@@ -81,6 +83,6 @@ return $urlRelativeFilePath;
 	}
 	$pdf->output();
 
-
+*/
 		
 ?>
