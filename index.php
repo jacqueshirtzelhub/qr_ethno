@@ -1,6 +1,6 @@
 <?php
 
-echo "toto X.3";
+echo "toto X.4";
 /*	require("fpdf.php");
 	include('./phpqrcode/qrlib.php'); 
 	
